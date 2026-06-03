@@ -154,7 +154,10 @@ export const Hero: React.FC = () => {
             </a>
             
             <a
-              href="#"
+              href="/Nadish-resume.pdf"
+              download="Nadish resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="w-full sm:w-auto px-6 py-3.5 rounded-xl text-sm font-semibold border border-dashed border-blue-500/30 hover:border-blue-500 dark:hover:border-blue-400 text-blue-600 dark:text-blue-400 bg-blue-50/20 dark:bg-blue-950/10 hover:bg-blue-50 dark:hover:bg-blue-950/20 transition-all flex items-center justify-center gap-2"
             >
               <Download className="w-4 h-4" />
