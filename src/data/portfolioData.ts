@@ -159,7 +159,7 @@ export const portfolioData: PortfolioData = {
     {
       platform: "LeetCode",
       metrics: "50+ Problems Solved",
-      url: "https://leetcode.com/u/nadishr"
+      url: "https://leetcode.com/u/Nadish_R/"
     },
     {
       platform: "SkillRack",
@@ -171,7 +171,7 @@ export const portfolioData: PortfolioData = {
      github: "https://github.com/Nadish2507",
      linkedin: "https://www.linkedin.com/in/nadish-r-454a57381?utm_source=share_via&utm_content=profile&utm_medium=member_android",
      email: "mailto:nadishr25@gmail.com",
-     leetcode: "https://leetcode.com/u/nadishr",
+     leetcode: "https://leetcode.com/u/Nadish_R/",
      skillrack: "https://www.skillrack.com/profile/nadishr"
    }
 };
